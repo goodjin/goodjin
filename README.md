@@ -1,4 +1,4 @@
-# goodjin
+# JinShan
 
 I build AI-native tools, agent systems, and developer workflows.
 
