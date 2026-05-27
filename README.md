@@ -33,3 +33,7 @@ I care about tools that make thinking, writing, coding, and agent collaboration 
 ## Contact
 
 - Email: goodjin2@gmail.com
+
+### WeChat Official Account
+
+<img src="./assets/wechat-official-account.jpg" width="180" alt="WeChat Official Account QR code">
