@@ -32,5 +32,4 @@ I care about tools that make thinking, writing, coding, and agent collaboration 
 
 ## Contact
 
-- Website: [agentlab.fun](https://agentlab.fun/)
 - Email: goodjin2@gmail.com
