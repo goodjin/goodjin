@@ -14,7 +14,7 @@ I care about tools that make thinking, writing, coding, and agent collaboration 
 | [Markly](https://github.com/goodjin/jianmo) | A WYSIWYG Markdown editor extension for VS Code with rich editing, table support, image handling, PDF/HTML export, and diagnostics. | JavaScript / VS Code |
 | [Lumen](https://github.com/goodjin/Lumen) | A native macOS PDF reader designed for researchers, students, and power users. | Swift / SwiftUI |
 | [Light Finger Browser](https://github.com/goodjin/light-finger-browser) | Browser fingerprint, proxy, browser instance, and stealth runtime orchestration infrastructure. | Go |
-| [Agent Team](https://github.com/goodjin/agent-team) | A multi-agent project management system with role-based agents, task scheduling, tools, memory, observability, and plugin architecture. | TypeScript |
+| [Superpowers Controller](https://github.com/goodjin/superpowers-controller) | A stateful OpenCode plugin for guided Superpowers workflows: design, planning, execution, verification, and review. | TypeScript / Bun |
 
 ## Current Focus
 
