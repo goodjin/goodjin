@@ -37,3 +37,7 @@ I care about tools that make thinking, writing, coding, and agent collaboration 
 ### WeChat Official Account
 
 <img src="./assets/wechat-official-account.jpg" width="180" alt="WeChat Official Account QR code">
+
+## Repository Maintenance
+
+This public repository only maintains the GitHub profile shown above and its public assets. Before editing it, read `/Users/jin/my-profile/README.md` and this repository's `AGENTS.md` or `CLAUDE.md`, then check the Git working tree. Keep private contact details, compensation, job applications, credentials, browser sessions, and unpublished work out of this repository.
